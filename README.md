@@ -25,19 +25,25 @@ Below are 11 questions for which i created SQL queries to gain insights:
    
    ![](TOTALRESERVE.PNG)
    
+   
    ![](TOTALRESERVE2.PNG)
    
+   
 3. Identify the most popular meal plan among guests.
-4. Calculate the average price per room for reservations involving children.
-5. Count how many reservations were made for a specific year (replace XX with the desired year).
-6. Find out the most commonly booked room type.
-7. Determine the number of reservations that fall on a weekend (where no_of_weekend_nights > 0).
-8. Identify the highest and lowest lead time for reservations.
-9. Determine the most common market segment type for reservations.
-10. Count the number of reservations with a booking status of "Confirmed."
-11. Calculate the total number of adults and children across all reservations.
-12. Determine the average number of weekend nights for reservations involving children.
-13. Determine the number of reservations made in each month of the year.
-14. Calculate the average number of nights (both weekend and weekday) spent by guests for each room type.
-15. Identify the most common room type for reservations involving children, and calculate the average price for that room type.
-16. Find the market segment type that generates the highest average price per room.
+
+   ![](POPMEAL.PNG)
+
+   
+5. Calculate the average price per room for reservations involving children.
+6. Count how many reservations were made for a specific year (replace XX with the desired year).
+7. Find out the most commonly booked room type.
+8. Determine the number of reservations that fall on a weekend (where no_of_weekend_nights > 0).
+9. Identify the highest and lowest lead time for reservations.
+10. Determine the most common market segment type for reservations.
+11. Count the number of reservations with a booking status of "Confirmed."
+12. Calculate the total number of adults and children across all reservations.
+13. Determine the average number of weekend nights for reservations involving children.
+14. Determine the number of reservations made in each month of the year.
+15. Calculate the average number of nights (both weekend and weekday) spent by guests for each room type.
+16. Identify the most common room type for reservations involving children, and calculate the average price for that room type.
+17. Find the market segment type that generates the highest average price per room.
