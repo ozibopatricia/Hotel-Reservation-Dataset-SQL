@@ -27,6 +27,12 @@ Below are 11 questions for which i created SQL queries to gain insights:
    
    
    ![](TOTALRESERVE2.PNG)
+
+
+
+   ![](2018YEARREV.PNG)
+
+
    
    
 3. Identify the most popular meal plan among guests.
