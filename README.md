@@ -22,8 +22,8 @@ The dataset comprises the following columns:
 Below are 11 questions for which i created SQL queries to gain insights:
 
 1. Determine the total number of reservations in the dataset.
-   ![TOTALRESERVE]
-   !{TOTALRESERVE2}
+   ![TOTALRESERVE.PNG]
+   !{TOTALRESERVE2.PNG}
 3. Identify the most popular meal plan among guests.
 4. Calculate the average price per room for reservations involving children.
 5. Count how many reservations were made for a specific year (replace XX with the desired year).
