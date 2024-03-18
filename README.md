@@ -33,7 +33,7 @@ Below are 11 questions for which i created SQL queries to gain insights:
 
 
 
-3. Identify the most popular meal plan among guests.
+ # Identify the most popular meal plan among guests.
    
 
    ![](POPMEAL.PNG)
@@ -124,10 +124,16 @@ Below are 11 questions for which i created SQL queries to gain insights:
 
     
 42. Determine the average number of weekend nights for reservations involving children.
+    
 
-    ![](CHILDRENROOMTYPEANDAVGPRICE.PNG)
+    ![](WEEKENDNIGHTCHILDREN.PNG)
 
-    ![](CHILDRENROOMTYPE)
+    
+
+    ![](WEEKENDNIGHTCHILDREN2.PNG)
+
+
+    
 44. Determine the number of reservations made in each month of the year.
     
 
