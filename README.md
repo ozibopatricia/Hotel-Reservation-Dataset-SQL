@@ -21,7 +21,7 @@ The dataset comprises the following columns:
 # The task is to analyze the hotel reservation dataset using SQL by writing queries to answer specific questions. 
 Below are 11 questions for which i created SQL queries to gain insights:
 
-1. Determine the total number of reservations in the dataset.
+### Determine the total number of reservations in the dataset.
    
    
    ![](TOTALRESERVE.PNG)
@@ -33,7 +33,7 @@ Below are 11 questions for which i created SQL queries to gain insights:
 
 
 
- # Identify the most popular meal plan among guests.
+ ### Identify the most popular meal plan among guests.
    
 
    ![](POPMEAL.PNG)
@@ -44,131 +44,131 @@ Below are 11 questions for which i created SQL queries to gain insights:
 
 
    
-5. Calculate the average price per room for reservations involving children.
+### Calculate the average price per room for reservations involving children.
 
  
-7. ![](AVGPRICECHILDREN.PNG)
+  ![](AVGPRICECHILDREN.PNG)
 
 
 
-8. ![](AVGPRICECHILDREN2.PNG)
+  ![](AVGPRICECHILDREN2.PNG)
    
 
 
-10. Count how many reservations were made for a specific year (replace XX with the desired year).
+### Count how many reservations were made for a specific year (replace XX with the desired year).
     
 
-12. ![](2018YEARREV.PNG)
+ ![](2018YEARREV.PNG)
     
     
 
-14. ![](2018YEARREV2.PNG)
+ ![](2018YEARREV2.PNG)
     
 
  
-16. Find out the most commonly booked room type.
+### Find out the most commonly booked room type.
     
 
-18. ![](MOSTBOOKEDROOM.PNG)
+ ![](MOSTBOOKEDROOM.PNG)
 
     
 
-19. ![](MOSTBOOKEDROOM2.PNG)
+ ![](MOSTBOOKEDROOM2.PNG)
 
  
-21. Determine the number of reservations that fall on a weekend (where no_of_weekend_nights > 0).
+### Determine the number of reservations that fall on a weekend (where no_of_weekend_nights > 0).
  
 
-23. ![](WEEKENDREV.PNG)
+ ![](WEEKENDREV.PNG)
 
  
 
-25. ![](WEEKENDREV2.PNG)
+ ![](WEEKENDREV2.PNG)
 
  
-27. Identify the highest and lowest lead time for reservations.
+### Identify the highest and lowest lead time for reservations.
  
 
-29. ![](MAXMINLEADTIME.PNG)
+ ![](MAXMINLEADTIME.PNG)
  
 
-31. ![](MAXMINLEADTIME2.PNG)
+ ![](MAXMINLEADTIME2.PNG)
 
     
-33. Determine the most common market segment type for reservations.
+### Determine the most common market segment type for reservations.
     
 
-35. ![](MOSTCOMMONMARKETSEG.PNG)
+ ![](MOSTCOMMONMARKETSEG.PNG)
     
 
-36. ![](MOSTCOMMONMARKETSEG2.PNG)
+ ![](MOSTCOMMONMARKETSEG2.PNG)
 
     
-38. Count the number of reservations with a booking status of "Confirmed."
+### Count the number of reservations with a booking status of "Confirmed."
     
 
-    ![](CONFIRMEDREV.PNG)
+ ![](CONFIRMEDREV.PNG)
     
 
-    ![](CONFIRMEDREV2.PNG)
+ ![](CONFIRMEDREV2.PNG)
 
     
-40. Calculate the total number of adults and children across all reservations.
+### Calculate the total number of adults and children across all reservations.
     
 
-    ![](ADULTANDCHILDREN.PNG)
+ ![](ADULTANDCHILDREN.PNG)
 
 
-    ![](ADULTANDCHILDERN2.PNG)
-    
-
-    
-42. Determine the average number of weekend nights for reservations involving children.
-    
-
-    ![](WEEKENDNIGHTCHILDREN.PNG)
-
-    
-
-    ![](WEEKENDNIGHTCHILDREN2.PNG)
-
-
-    
-44. Determine the number of reservations made in each month of the year.
-    
-
-    ![](REVBYMONTH.PNG)
-    
-
-    ![](REVBYMONTH2.PNG)
-
-    
-46. Calculate the average number of nights (both weekend and weekday) spent by guests for each room type.
-    
-
-    ![](WEEKEDANDWEEKNIGHT.PNG)
-
-    
-
-    ![](WEEKENDANDWEEKNIGHT2.PNG)
-
-    
-48. Identify the most common room type for reservations involving children, and calculate the average price for that room type.
-    
-
-    ![](CHILDRENROOMTYPEANDAVGPRICE.PNG)
-
-    
-
-    ![](CHILDRENROOMTYPEANDAVGPRICE2.PNG)
+ ![](ADULTANDCHILDERN2.PNG)
     
 
     
-50. Find the market segment type that generates the highest average price per room.
+### Determine the average number of weekend nights for reservations involving children.
     
 
-    ![](MARKETSEGMENTMAXAVG.PNG)
+ ![](WEEKENDNIGHTCHILDREN.PNG)
+
     
 
-    ![](MARKETSEGMENTMAXAVG2.PNG)
+ ![](WEEKENDNIGHTCHILDREN2.PNG)
+
+
+    
+### Determine the number of reservations made in each month of the year.
+    
+
+ ![](REVBYMONTH.PNG)
+    
+
+ ![](REVBYMONTH2.PNG)
+
+    
+### Calculate the average number of nights (both weekend and weekday) spent by guests for each room type.
+    
+
+ ![](WEEKEDANDWEEKNIGHT.PNG)
+
+    
+
+ ![](WEEKENDANDWEEKNIGHT2.PNG)
+
+    
+ ### Identify the most common room type for reservations involving children, and calculate the average price for that room type.
+    
+
+ ![](CHILDRENROOMTYPEANDAVGPRICE.PNG)
+
+    
+
+ ![](CHILDRENROOMTYPEANDAVGPRICE2.PNG)
+    
+
+    
+### Find the market segment type that generates the highest average price per room.
+    
+
+ ![](MARKETSEGMENTMAXAVG.PNG)
+    
+
+ ![](MARKETSEGMENTMAXAVG2.PNG)
     
