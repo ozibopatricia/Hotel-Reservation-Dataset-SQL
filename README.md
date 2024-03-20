@@ -165,7 +165,7 @@ Below are 11 questions for which i created SQL queries to gain insights:
  
 
 
- ![](ADULTANDCHILDERN2.PNG)
+ ![](ADULTANDCHILDREN2.PNG)
 
     
 
